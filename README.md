@@ -7,3 +7,5 @@ The key to success for drug discovery lies in the intricate dance between small 
 Classical methods for calculating the ground state energy of a molecule are limited in their accuracy and efficiency, especially for large molecules. The use of Variational Quantum Eigensolver (VQE) offers a promising solution to this problem. VQE is a quantum algorithm designed to find the lowest energy state of a system by optimizing the parameters of a quantum circuit.
 
 In this project I develop + code a VQE to find the ground state of a hydrogen molecule using Xanadu's Pennylane software.
+
+Article That Explains Further: https://medium.com/@AnushkaPunukollu/quantum-leap-in-drug-discovery-using-vqes-to-improve-molecular-design-dd809696b383
